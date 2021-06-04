@@ -14,9 +14,9 @@ author: Arthur Wood
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me/Portfolio: "aboutme"
   Projects: "projects"
-  Portfolio: "portfolio"
+  blog: "blog"
 
 # --- Logo --- #
 
