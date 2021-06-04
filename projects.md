@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: What do you want to know?
+subtitle: Here is hopefully a current list of some projects I am working on.
 ---
 
 My name is Arthur Wood. Here are some things about me:
