@@ -15,7 +15,7 @@ author: Arthur Wood
 
 navbar-links:
   About Me: "aboutme"
-  #Projects: "projects"
+  Projects: "projects"
   Portfolio: "portfolio"
 
 # --- Logo --- #
