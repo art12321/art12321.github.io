@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: What do you want to know
+subtitle: What do you want to know?
 ---
 
 My name is Arthur Wood. Here are some things about me:
 
-- I am a Mechanical Engineering Student.
+- I am a Mechanical Engineering Student at SJSU.
 - I love working on projects and creating stuff.
 
 What else do you need?
