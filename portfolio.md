@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-subtitle: What do you want to know?
+subtitle: Ideally a one page overview of my professional work
 ---
 
 My name is Arthur Wood. Here are some things about me:
