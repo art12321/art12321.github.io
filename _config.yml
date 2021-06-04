@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "contact@arthurwood.org"
+# email: "contact@arthurwood.org"
 # facebook: yourname
   github: art12321
   twitter: art12321
