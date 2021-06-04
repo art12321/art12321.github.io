@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: "arthurwood.org"
+title: arthurwood.org
 
 # Your name to show in the footer
 author: Arthur Wood
@@ -31,7 +31,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
- title-img: /assets/img/avatar-icon.jpg
+title-img: /assets/img/avatar-icon.jpg
 
 
 # --- Footer social media links --- #
@@ -90,7 +90,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: false
+post_search: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
